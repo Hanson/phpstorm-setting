@@ -1,11 +1,4 @@
 <scheme name="Material Theme Darker" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2017-03-20T13:10:13</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2017-03-21T22:04:37</property>
-    <property name="originalScheme">Material Theme - Darker copy</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
@@ -638,6 +631,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="722c40" />
+        <option name="ERROR_STRIPE_COLOR" value="e20f15" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1136,11 +1130,6 @@
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
-      </value>
-    </option>
-    <option name="PHP_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="ef5350" />
       </value>
     </option>
     <option name="PHP_TAG">
