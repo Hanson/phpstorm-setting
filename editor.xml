@@ -1,6 +1,13 @@
 <application>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
