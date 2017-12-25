@@ -4,9 +4,10 @@
       <mapping pattern="vbot" type="PLAIN_TEXT" />
       <mapping pattern="UrR-EuPA9fZ1yykXGzo1" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="111111" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
+      <mapping pattern="111111" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="jade" type="PLAIN_TEXT" />
       <mapping ext="gitmodules" type="PLAIN_TEXT" />
