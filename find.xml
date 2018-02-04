@@ -17,14 +17,14 @@
       <mask>*.md</mask>
       <mask>*。</mask>
       <mask>*</mask>
-      <mask>*.ph</mask>
       <mask>*.vu</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.v</mask>
       <mask>*.vue</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
